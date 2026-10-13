@@ -74,7 +74,7 @@
     "@types/pg": "^8.16.0",
     "@types/react": "^19.2.7",
     "@vitejs/plugin-react": "^5.1.2",
-    "@vitest/browser": "^4.0.16",
+    "@vitest/browser": "^4.1.10",
     "@vitest/browser-playwright": "^4.0.16",
     "@vitest/coverage-v8": "^4.0.16",
     "babel-plugin-react-compiler": "^1.0.0",
